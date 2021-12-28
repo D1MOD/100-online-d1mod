@@ -1,0 +1,19 @@
+{
+  "name": "d1mod",
+  "version": "2.1.0",
+  "description": "d1mod",
+  "main": "d1mod.js",
+  "scripts": {
+    "start": "node d1mod.js"
+  },
+  "dependencies": {
+    "discord.js": "11.4.2",
+    "express": "^4.17.2",
+    "discord.js-v12": "^12.5.3",
+    "keep-online": "^1.1.0",
+    "node-fetch": "^3.1.0"
+  },
+  "engines": {
+    "node": "10.x"
+  }
+}
