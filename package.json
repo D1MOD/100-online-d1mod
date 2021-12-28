@@ -1,10 +1,10 @@
 {
   "name": "d1mod",
   "version": "2.1.0",
-  "description": "d1mod",
-  "main": "d1mod.js",
+  "description": "https://bit.ly/powerhost⚡ For Hosting The Projects",
+  "main": "server.js",
   "scripts": {
-    "start": "node d1mod.js"
+    "start": "node server.js"
   },
   "dependencies": {
     "discord.js": "11.4.2",
