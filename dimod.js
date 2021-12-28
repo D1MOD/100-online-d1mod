@@ -143,7 +143,7 @@ d1mod3.on("ready", () => {
 
 d1mod4.on("ready", () => {
   console.log(`Online 4`);
-  let statuses = [``];
+  let statuses = [`By D1MOD`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
     d1mod4.user.setActivity(STREAMING, {
@@ -156,7 +156,7 @@ d1mod4.on("ready", () => {
 
 d1mod5.on("ready", () => {
   console.log(`Online 5`);
-  let statuses = [``];
+  let statuses = [`By D1MOD`];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
     d1mod5.user.setActivity(STREAMING, {
