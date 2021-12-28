@@ -778,12 +778,12 @@ d1mod52.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm53.on("ready", () => {
+d1mod53.on("ready", () => {
   console.log(`Online 53`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm53.user.setActivity(STREAMING, {
+    d1mod53.user.setActivity(STREAMING, {
       type: "playing",
       url: "https://www.twitch.tv/faith"
     });
@@ -791,12 +791,12 @@ smsm53.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm54.on("ready", () => {
+d1mod54.on("ready", () => {
   console.log(`Online 54`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm54.user.setActivity(STREAMING, {
+    d1mod54.user.setActivity(STREAMING, {
       type: "playing",
       url: "https://www.twitch.tv/faith"
     });
@@ -804,12 +804,12 @@ smsm54.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm55.on("ready", () => {
+d1mod55.on("ready", () => {
   console.log(`Online 55`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm55.user.setActivity(STREAMING, {
+    d1mod55.user.setActivity(STREAMING, {
       type: "playing",
       url: "https://www.twitch.tv/faith"
     });
@@ -817,12 +817,12 @@ smsm55.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm56.on("ready", () => {
+d1mod56.on("ready", () => {
   console.log(`Online 56`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm56.user.setActivity(STREAMING, {
+    d1mod56.user.setActivity(STREAMING, {
       type: "playing",
       url: "https://www.twitch.tv/faith"
     });
@@ -830,12 +830,12 @@ smsm56.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm57.on("ready", () => {
+d1mod57.on("ready", () => {
   console.log(`Online 57`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm57.user.setActivity(STREAMING, {
+    d1mod57.user.setActivity(STREAMING, {
       type: "playing",
       url: "https://www.twitch.tv/faith"
     });
@@ -843,12 +843,12 @@ smsm57.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm58.on("ready", () => {
+d1mod58.on("ready", () => {
   console.log(`Online 58`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm58.user.setActivity(STREAMING, {
+    d1mod58.user.setActivity(STREAMING, {
       type: "playing",
       url: "https://www.twitch.tv/faith"
     });
@@ -856,12 +856,12 @@ smsm58.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm59.on("ready", () => {
+d1mod59.on("ready", () => {
   console.log(`Online 59`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm59.user.setActivity(STREAMING, {
+    d1mod59.user.setActivity(STREAMING, {
       type: "playing",
       url: "https://www.twitch.tv/faith"
     });
@@ -869,12 +869,12 @@ smsm59.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm60.on("ready", () => {
+d1mod60.on("ready", () => {
   console.log(`Online 60`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm60.user.setActivity(STREAMING, {
+    d1mod60.user.setActivity(STREAMING, {
       type: "playing",
       url: "https://www.twitch.tv/faith"
     });
@@ -882,12 +882,12 @@ smsm60.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm61.on("ready", () => {
+d1mod61.on("ready", () => {
   console.log(`Online 61`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm61.user.setActivity(STREAMING, {
+    d1mod61.user.setActivity(STREAMING, {
       type: "playing",
       url: "https://www.twitch.tv/faith"
     });
@@ -895,12 +895,12 @@ smsm61.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm62.on("ready", () => {
+d1mod62.on("ready", () => {
   console.log(`Online 62`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm62.user.setActivity(STREAMING, {
+    d1mod62.user.setActivity(STREAMING, {
       type: "playing",
       url: "https://www.twitch.tv/faith"
     });
@@ -908,12 +908,12 @@ smsm62.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm63.on("ready", () => {
+d1mod63.on("ready", () => {
   console.log(`Online 63`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm63.user.setActivity(STREAMING, {
+    d1mod63.user.setActivity(STREAMING, {
       type: "playing",
       url: "https://www.twitch.tv/faith"
     });
@@ -921,12 +921,12 @@ smsm63.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm64.on("ready", () => {
+d1mod64.on("ready", () => {
   console.log(`Online 64`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm64.user.setActivity(STREAMING, {
+    d1mod64.user.setActivity(STREAMING, {
       type: "playing",
       url: "https://www.twitch.tv/faith"
     });
@@ -934,12 +934,12 @@ smsm64.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm65.on("ready", () => {
+d1mod65.on("ready", () => {
   console.log(`Online 65`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm65.user.setActivity(STREAMING, {
+    d1mod65.user.setActivity(STREAMING, {
       type: "playing",
       url: "https://www.twitch.tv/faith"
     });
@@ -947,12 +947,12 @@ smsm65.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm66.on("ready", () => {
+d1mod66.on("ready", () => {
   console.log(`Online 66`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm66.user.setActivity(STREAMING, {
+    d1mod66.user.setActivity(STREAMING, {
       type: "playing",
       url: "https://www.twitch.tv/faith"
     });
@@ -960,12 +960,12 @@ smsm66.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm67.on("ready", () => {
+d1mod67.on("ready", () => {
   console.log(`Online 67`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm67.user.setActivity(STREAMING, {
+    d1mod67.user.setActivity(STREAMING, {
       type: "playing",
       url: "https://www.twitch.tv/faith"
     });
@@ -973,12 +973,12 @@ smsm67.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm68.on("ready", () => {
+d1mod68.on("ready", () => {
   console.log(`Online 68`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm68.user.setActivity(STREAMING, {
+    d1mod68.user.setActivity(STREAMING, {
       type: "playing",
       url: "https://www.twitch.tv/faith"
     });
@@ -986,12 +986,12 @@ smsm68.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm69.on("ready", () => {
+d1mod69.on("ready", () => {
   console.log(`Online 69`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm69.user.setActivity(STREAMING, {
+    d1mod69.user.setActivity(STREAMING, {
       type: "playing",
       url: "https://www.twitch.tv/faith"
     });
@@ -999,12 +999,12 @@ smsm69.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm70.on("ready", () => {
+d1mod70.on("ready", () => {
   console.log(`Online 70`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm70.user.setActivity(STREAMING, {
+    d1mod70.user.setActivity(STREAMING, {
       type: "playing",
       url: "https://www.twitch.tv/faith"
     });
@@ -1012,12 +1012,12 @@ smsm70.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm71.on("ready", () => {
+d1mod71.on("ready", () => {
   console.log(`Online 71`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm71.user.setActivity(STREAMING, {
+    d1mod71.user.setActivity(STREAMING, {
       type: "playing",
       url: "https://www.twitch.tv/faith"
     });
@@ -1025,12 +1025,12 @@ smsm71.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm72.on("ready", () => {
+d1mod72.on("ready", () => {
   console.log(`Online 72`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm72.user.setActivity(STREAMING, {
+    d1mod72.user.setActivity(STREAMING, {
       type: "playing",
       url: "https://www.twitch.tv/faith"
     });
@@ -1038,12 +1038,12 @@ smsm72.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm73.on("ready", () => {
+d1mod73.on("ready", () => {
   console.log(`Online 73`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm73.user.setActivity(STREAMING, {
+    d1mod73.user.setActivity(STREAMING, {
       type: "playing",
       url: "https://www.twitch.tv/faith"
     });
@@ -1051,12 +1051,12 @@ smsm73.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm74.on("ready", () => {
+d1mod74.on("ready", () => {
   console.log(`Online 74`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm74.user.setActivity(STREAMING, {
+    d1mod74.user.setActivity(STREAMING, {
       type: "playing",
       url: "https://www.twitch.tv/faith"
     });
@@ -1064,12 +1064,12 @@ smsm74.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm75.on("ready", () => {
+d1mod75.on("ready", () => {
   console.log(`Online 75`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm75.user.setActivity(STREAMING, {
+    d1mod75.user.setActivity(STREAMING, {
       type: "playing",
       url: "https://www.twitch.tv/faith"
     });
@@ -1077,12 +1077,12 @@ smsm75.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm76.on("ready", () => {
+d1mod76.on("ready", () => {
   console.log(`Online 76`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm76.user.setActivity(STREAMING, {
+    d1mod76.user.setActivity(STREAMING, {
       type: "playing",
       url: "https://www.twitch.tv/faith"
     });
@@ -1090,12 +1090,12 @@ smsm76.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm77.on("ready", () => {
+d1mod77.on("ready", () => {
   console.log(`Online 77`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm77.user.setActivity(STREAMING, {
+    d1mod77.user.setActivity(STREAMING, {
       type: "playing",
       url: "https://www.twitch.tv/faith"
     });
@@ -1103,12 +1103,12 @@ smsm77.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm78.on("ready", () => {
+d1mod78.on("ready", () => {
   console.log(`Online 78`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm78.user.setActivity(STREAMING, {
+    d1mod78.user.setActivity(STREAMING, {
       type: "playing",
       url: "https://www.twitch.tv/faith"
     });
@@ -1116,12 +1116,12 @@ smsm78.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm79.on("ready", () => {
+d1mod79.on("ready", () => {
   console.log(`Online 79`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm79.user.setActivity(STREAMING, {
+    d1mod79.user.setActivity(STREAMING, {
       type: "playing",
       url: "https://www.twitch.tv/faith"
     });
@@ -1129,12 +1129,12 @@ smsm79.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm80.on("ready", () => {
+d1mod80.on("ready", () => {
   console.log(`Online 80`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm80.user.setActivity(STREAMING, {
+    d1mod80.user.setActivity(STREAMING, {
       type: "playing",
       url: "https://www.twitch.tv/faith"
     });
@@ -1142,12 +1142,12 @@ smsm80.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm81.on("ready", () => {
+d1mod81.on("ready", () => {
   console.log(`Online 81`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm81.user.setActivity(STREAMING, {
+    d1mod81.user.setActivity(STREAMING, {
       type: "playing",
       url: "https://www.twitch.tv/faith"
     });
@@ -1155,12 +1155,12 @@ smsm81.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm82.on("ready", () => {
+d1mod82.on("ready", () => {
   console.log(`Online 82`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm82.user.setActivity(STREAMING, {
+    d1mod82.user.setActivity(STREAMING, {
       type: "playing",
       url: "https://www.twitch.tv/faith"
     });
@@ -1168,12 +1168,12 @@ smsm82.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm83.on("ready", () => {
+d1mod83.on("ready", () => {
   console.log(`Online 83`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm83.user.setActivity(STREAMING, {
+    d1mod83.user.setActivity(STREAMING, {
       type: "playing",
       url: "https://www.twitch.tv/faith"
     });
@@ -1181,12 +1181,12 @@ smsm83.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm84.on("ready", () => {
+d1mod84.on("ready", () => {
   console.log(`Online 84`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm84.user.setActivity(STREAMING, {
+    d1mod84.user.setActivity(STREAMING, {
       type: "playing",
       url: "https://www.twitch.tv/faith"
     });
@@ -1194,12 +1194,12 @@ smsm84.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm85.on("ready", () => {
+d1mod85.on("ready", () => {
   console.log(`Online 85`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm85.user.setActivity(STREAMING, {
+    d1mod85.user.setActivity(STREAMING, {
       type: "playing",
       url: "https://www.twitch.tv/faith"
     });
@@ -1207,12 +1207,12 @@ smsm85.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm86.on("ready", () => {
+d1mod86.on("ready", () => {
   console.log(`Online 86`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm86.user.setActivity(STREAMING, {
+    d1mod86.user.setActivity(STREAMING, {
       type: "playing",
       url: "https://www.twitch.tv/faith"
     });
@@ -1220,12 +1220,12 @@ smsm86.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm87.on("ready", () => {
+d1mod87.on("ready", () => {
   console.log(`Online 87`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm87.user.setActivity(STREAMING, {
+    d1mod87.user.setActivity(STREAMING, {
       type: "playing",
       url: "https://www.twitch.tv/faith"
     });
@@ -1233,12 +1233,12 @@ smsm87.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm88.on("ready", () => {
+d1mod88.on("ready", () => {
   console.log(`Online 88`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm88.user.setActivity(STREAMING, {
+    d1mod88.user.setActivity(STREAMING, {
       type: "playing",
       url: "https://www.twitch.tv/faith"
     });
@@ -1246,12 +1246,12 @@ smsm88.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm89.on("ready", () => {
+d1mod89.on("ready", () => {
   console.log(`Online 89`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm89.user.setActivity(STREAMING, {
+    d1mod89.user.setActivity(STREAMING, {
       type: "playing",
       url: "https://www.twitch.tv/faith"
     });
@@ -1259,12 +1259,12 @@ smsm89.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm90.on("ready", () => {
+d1mod90.on("ready", () => {
   console.log(`Online 90`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm90.user.setActivity(STREAMING, {
+    d1mod90.user.setActivity(STREAMING, {
       type: "playing",
       url: "https://www.twitch.tv/faith"
     });
@@ -1272,12 +1272,12 @@ smsm90.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm91.on("ready", () => {
+d1mod91.on("ready", () => {
   console.log(`Online 91`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm91.user.setActivity(STREAMING, {
+    d1mod91.user.setActivity(STREAMING, {
       type: "playing",
       url: "https://www.twitch.tv/faith"
     });
@@ -1285,12 +1285,12 @@ smsm91.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm92.on("ready", () => {
+d1mod92.on("ready", () => {
   console.log(`Online 92`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm92.user.setActivity(STREAMING, {
+    d1mod92.user.setActivity(STREAMING, {
       type: "playing",
       url: "https://www.twitch.tv/faith"
     });
@@ -1298,12 +1298,12 @@ smsm92.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm93.on("ready", () => {
+d1mod93.on("ready", () => {
   console.log(`Online 93`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm93.user.setActivity(STREAMING, {
+    d1mod93.user.setActivity(STREAMING, {
       type: "playing",
       url: "https://www.twitch.tv/faith"
     });
@@ -1311,12 +1311,12 @@ smsm93.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm94.on("ready", () => {
+d1mod94.on("ready", () => {
   console.log(`Online 94`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm94.user.setActivity(STREAMING, {
+    d1mod94.user.setActivity(STREAMING, {
       type: "playing",
       url: "https://www.twitch.tv/faith"
     });
@@ -1324,12 +1324,12 @@ smsm94.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm95.on("ready", () => {
+d1mod95.on("ready", () => {
   console.log(`Online 95`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm95.user.setActivity(STREAMING, {
+    d1mod95.user.setActivity(STREAMING, {
       type: "playing",
       url: "https://www.twitch.tv/faith"
     });
@@ -1337,12 +1337,12 @@ smsm95.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm96.on("ready", () => {
+d1mod96.on("ready", () => {
   console.log(`Online 96`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm96.user.setActivity(STREAMING, {
+    d1mod96.user.setActivity(STREAMING, {
       type: "playing",
       url: "https://www.twitch.tv/faith"
     });
@@ -1350,12 +1350,12 @@ smsm96.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm97.on("ready", () => {
+d1mod97.on("ready", () => {
   console.log(`Online 97`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm97.user.setActivity(STREAMING, {
+    d1mod97.user.setActivity(STREAMING, {
       type: "playing",
       url: "https://www.twitch.tv/faith"
     });
@@ -1363,12 +1363,12 @@ smsm97.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm98.on("ready", () => {
+d1mod98.on("ready", () => {
   console.log(`Online 98`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm98.user.setActivity(STREAMING, {
+    d1mod98.user.setActivity(STREAMING, {
       type: "playing",
       url: "https://www.twitch.tv/faith"
     });
@@ -1376,12 +1376,12 @@ smsm98.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm99.on("ready", () => {
+d1mod99.on("ready", () => {
   console.log(`Online 99`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm99.user.setActivity(STREAMING, {
+    d1mod99.user.setActivity(STREAMING, {
       type: "playing",
       url: "https://www.twitch.tv/faith"
     });
@@ -1389,19 +1389,17 @@ smsm99.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm100.on("ready", () => {
+d1mod100.on("ready", () => {
   console.log(`Online 100`);
   let statuses = [``];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm100.user.setActivity(STREAMING, {
+    d1mod100.user.setActivity(STREAMING, {
       type: "playing",
       url: "https://www.twitch.tv/faith"
     });
   }, 2000);
 });
-
-///
 //////////////// token lera dabne/////////
 
 dimod.login("");
